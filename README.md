@@ -16,14 +16,10 @@ Via Perlin Noise, for more information i recommend https://catlikecoding.com/uni
 
 
 
-____________________ HOW TO RUN  ____________________
+## HOW TO RUN
 
 1. Open Project with Unity Hub
 2. Hit Play Button
 3. Have Fun! :)
-________________________________________________
 
-
-
-For question, contact: mario.browser@hotmail.com
 

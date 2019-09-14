@@ -1,4 +1,4 @@
-# SWARM HUNT 
+## SWARM HUNT ##
 ++ Unity Version: 2018.3.8f1 ++ 
 
 ![GameScene](https://user-images.githubusercontent.com/45284935/55800352-d7679580-5ad3-11e9-9fa3-2682ccaf1e2f.png)
@@ -8,7 +8,7 @@
 
 
 ## Flocking Behaivour:
-Reffering to Nature of Code https://natureofcode.com/book/chapter-6-autonomous-agents/ 
+Referring to Nature of Code https://natureofcode.com/book/chapter-6-autonomous-agents/ 
 and the paper "Massive Multi-Agent Flocking Simulation in 3D" from Masaru Aoyagi and Akira Namatame http://cc.ist.psu.edu/BRIMS/archives/2005/papers/05-BRIMS-017.pdf
 
 ## Procedurale Generation of the Terrain:

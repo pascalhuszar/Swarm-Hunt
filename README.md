@@ -1,6 +1,10 @@
 # SWARM HUNT 
 ++ Unity Version: 2018.3.8f1 ++ 
 
+A simple game where you navigate a bird swarm through procedural generated, endless world.
+At time, the swarm health diminshes. 
+You need to catch the hearts to gain back health, to fullfill your Goal.. stay alive. 
+
 ![GameScene](https://user-images.githubusercontent.com/45284935/55800352-d7679580-5ad3-11e9-9fa3-2682ccaf1e2f.png)
 
 

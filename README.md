@@ -11,7 +11,7 @@ You need to catch the hearts to gain back health, to fullfill your Goal... stay 
 ![Terrain](https://user-images.githubusercontent.com/45284935/55800838-e7cc4000-5ad4-11e9-9408-8339eea76b43.png)
 
 
-# Flocking Behaivour:
+## Flocking Behaivour:
 Referring to Nature of Code https://natureofcode.com/book/chapter-6-autonomous-agents/ 
 and the paper "Massive Multi-Agent Flocking Simulation in 3D" from Masaru Aoyagi and Akira Namatame http://cc.ist.psu.edu/BRIMS/archives/2005/papers/05-BRIMS-017.pdf
 
@@ -20,12 +20,12 @@ Via Perlin Noise, for more information i recommend https://catlikecoding.com/uni
 
 
 
-# How to run
+## How to run
 1. Open Project with Unity Hub
 2. Hit Play Button
 3. Have Fun! :)
 
-# License
+## License
 Released under the MIT License.
 
 

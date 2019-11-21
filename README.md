@@ -1,5 +1,4 @@
 # SWARM HUNT 
-++ Unity Version: 2018.3.8f1 ++ 
 
 A simple game where you navigate a bird swarm through a procedural generated, endless world.
 At time, the swarm health diminshes. 
@@ -27,5 +26,7 @@ Via Perlin Noise, for more information i recommend https://catlikecoding.com/uni
 
 ## License
 Released under the MIT License.
+
+++ Unity Version: 2018.3.8f1 ++ 
 
 
